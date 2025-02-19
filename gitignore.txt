@@ -1,0 +1,12 @@
+# Directorios de compilación
+bin/
+obj/
+
+# Archivos de configuración local de Visual Studio
+*.user
+*.suo
+
+# Archivos temporales y logs
+*.log
+*.tmp
+*.vs/
