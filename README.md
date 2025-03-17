@@ -14,5 +14,5 @@ Este proyecto es una API REST que simula una biblioteca, permitiendo gestionar l
 ASP.NET Core como framework backend.
 Entity Framework con Code First para la gestión de base de datos.
 Patrones de diseño: Repository, DTO, Dependency Injection (DI), y MVC.
-Base de datos: SQL Server (o la que estés usando).
+Base de datos: SQL Server.
 Swagger para documentación interactiva de la API.
